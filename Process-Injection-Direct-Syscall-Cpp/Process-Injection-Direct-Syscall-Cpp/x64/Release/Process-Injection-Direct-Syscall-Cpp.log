@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\misiu\Documents\GitHub\Process-Injection-Direct-Syscall-Cpp\Process-Injection-Direct-Syscall-Cpp\Process-Injection-Direct-Syscall-Cpp\Main.cpp(43,25): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+C:\Users\misiu\Documents\GitHub\Process-Injection-Direct-Syscall-Cpp\Process-Injection-Direct-Syscall-Cpp\Process-Injection-Direct-Syscall-Cpp\Main.cpp(47,35): warning C4838: conversion from 'SIZE_T' to 'DWORD' requires a narrowing conversion
+C:\Users\misiu\Documents\GitHub\Process-Injection-Direct-Syscall-Cpp\Process-Injection-Direct-Syscall-Cpp\Process-Injection-Direct-Syscall-Cpp\Main.cpp(47,35): warning C4244: 'initializing': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 69 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Process-Injection-Direct-Syscall-Cpp.vcxproj -> C:\Users\misiu\Documents\GitHub\Process-Injection-Direct-Syscall-Cpp\Process-Injection-Direct-Syscall-Cpp\x64\Release\Process-Injection-Direct-Syscall-Cpp.exe
